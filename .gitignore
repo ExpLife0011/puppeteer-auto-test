@@ -7,7 +7,7 @@ npm-debug.log*
 out
 # dependencies
 /node_modules
-
+.DS_Store
 # Runtime data
 pids
 *.pid
