@@ -19,7 +19,7 @@
 ![Image text](https://raw.githubusercontent.com/WarriorsWCH/puppeteer-auto-test/master/images/17_38_17__12_14_2018.jpg)
 ![Image text](https://raw.githubusercontent.com/WarriorsWCH/puppeteer-auto-test/master/images/17_44_44__12_14_2018.jpg)
 
-- 下载开发工具vscode：https://code.visualstudio.com/，根据系统自动选择，正常安装即可
+- 下载开发工具vscode：https://code.visualstudio.com/， 根据系统自动选择，正常安装即可
 ![Image text](https://raw.githubusercontent.com/WarriorsWCH/puppeteer-auto-test/master/images/17_45_43__12_14_2018.jpg)
 
 - 下载示例代码：https://github.com/WarriorsWCH/puppeteer-auto-test
